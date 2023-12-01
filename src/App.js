@@ -17,7 +17,7 @@ function App() {
                
         >
 
-           Learn React  jax vvv
+           Learn React  jax 
 
         </a>
       </header>
