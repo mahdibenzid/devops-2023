@@ -15,11 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
                
-< dev-riadh
+       
 
 
            Learn React  jax vvv
-
+        >
         </a>
       </header>
     </div>
